@@ -1,6 +1,6 @@
 # Essential Guide to Transfer Learning in TensorFlow for Image Classification
 ### Step-by-step tutorial to using pre-trained ResNet50 model for multi-class image classification of Stanford cars dataset
 
-*Article coming soon*
+*Full article and complete repo coming soon*
 
-View the Jupyter notebook in the repo for the full guide
+For now, please view the Jupyter notebook for the full guide
