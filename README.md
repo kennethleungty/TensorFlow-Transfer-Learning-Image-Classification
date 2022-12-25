@@ -1,5 +1,5 @@
-#  TensorFlow Tutorial - Transfer Learning for Multi-Class Car Image Classification
-### Step-by-step tutorial to using pre-trained ResNet50 model for multi-class image classification of Oxford-IIIT Pets dataset
+#  TensorFlow Tutorial - Transfer Learning for Multiclass Image Classification
+### Step-by-step tutorial to using pre-trained ResNet50 model for multiclass image classification of Oxford-IIIT Pets dataset
 
 ### Context
 - Oftentimes we do not have access to a wealth of labeled data or computing power to build image classification deep learning models from scratch.
@@ -9,3 +9,5 @@
 ### Files
 - The tutorials in the form of Jupyter notebooks are found in the `notebooks` folder
 
+### Feedback
+- Any question or suggestions to improve the explanations? I look forward to hearing from you!
