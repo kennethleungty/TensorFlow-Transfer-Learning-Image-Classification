@@ -1,5 +1,5 @@
 #  Practical Guide to Transfer Learning in TensorFlow for Multiclass Image Classification
-### Step-by-step tutorial to using pre-trained ResNet50 model for multiclass image classification of Oxford-IIIT Pets dataset
+### Step-by-step tutorial to using pre-trained ResNet50v2 model for multiclass image classification of Oxford-IIIT Pets dataset
 
 ### Link to TowardsDataScience article: *Coming Soon*
 
